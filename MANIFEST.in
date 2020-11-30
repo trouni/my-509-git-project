@@ -1,0 +1,3 @@
+graft my-509-git-project
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  my-509-git-project/jupy *
